@@ -13,6 +13,7 @@ This Excel dashboard analyzes bank customer data, focusing on transaction behavi
 - Power Query
 - Conditional Formatting
 - Data Visualization (Charts, Graphs)
+- Macro
 
 ## 🚀 How to Use
 1. Download the Excel file from the repository.
